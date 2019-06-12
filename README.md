@@ -1,3 +1,5 @@
+AUTOMATYCZNY GENERATOR MIASTA :)
+
 1. don't shere that code(development in progress)
 1. nie rozpowszechniaj kodu (cały czas jestem w trakcie ulepsznia)
 
