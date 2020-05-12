@@ -1,9 +1,9 @@
 AUTOMATIC CITY GENERATOR :)
 
 TO RUN THE PROJECT
-    install blender
-    open GENERATOR.blend
-    click the "Run Script" button no the bottom of the python code window
+1. install blender
+2. open GENERATOR.blend
+3. click the "Run Script" button no the bottom of the python code window
 
 you can also use the "CLEANUP", "BLOCKS" and "OK" in the F3 search
 
